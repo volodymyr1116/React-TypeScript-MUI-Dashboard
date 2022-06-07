@@ -16,11 +16,6 @@ function Footer() {
         textAlign={{ xs: 'center', md: 'left' }}
         justifyContent="space-between"
       >
-        <Box>
-          <Typography variant="subtitle1">
-            &copy; 2022 - Tokyo Free White React Typescript Admin Dashboard
-          </Typography>
-        </Box>
         <Typography
           sx={{
             pt: { xs: 2, md: 0 }

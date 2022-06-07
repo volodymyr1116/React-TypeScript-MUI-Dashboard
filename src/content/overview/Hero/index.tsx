@@ -82,7 +82,7 @@ function Hero() {
         <Grid item md={10} lg={8} mx="auto">
           <LabelWrapper color="success">Version 2.0.0</LabelWrapper>
           <TypographyH1 sx={{ mb: 2 }} variant="h1">
-            Tokyo Free White React Typescript Admin Dashboard
+            React TypeScript MUI Dashboard
           </TypographyH1>
           <TypographyH2
             sx={{ lineHeight: 1.5, pb: 4 }}
@@ -107,7 +107,7 @@ function Hero() {
             component="a"
             target="_blank"
             rel="noopener"
-            href="https://bloomui.com/product/tokyo-free-white-react-typescript-material-ui-admin-dashboard"
+            href="#"
             size="large"
             variant="text"
           >
@@ -142,10 +142,6 @@ function Hero() {
                 <Box sx={{ pb: 2 }}>
                   <b>Built with Typescript</b>
                 </Box>
-                <Typography component="span" variant="subtitle2">
-                  Tokyo Free White features a modern technology stack and is
-                  built with React + Typescript.
-                </Typography>
               </Typography>
             </Grid>
           </Grid>
